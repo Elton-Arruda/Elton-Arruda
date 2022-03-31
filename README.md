@@ -8,8 +8,8 @@ Hello There!
 
 <div align="center">
   <a href="https://github.com/Elton-Arruda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elton-Arruda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Arruda&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elton-Arruda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Arruda&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   <img align="center" alt="Elton-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">

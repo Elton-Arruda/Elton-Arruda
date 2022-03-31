@@ -1,7 +1,9 @@
 Hello There!
 
 - 📚 Formado em Filosofia - Licenciatura (UFPE)
+- 🎫 Tentando entrar em outra área (ADS)
 - 🌱 Atualmente aprendendo um pouco de todas as coisas, mas especialmente Python
+- 🎲 Jogador de rpgs, jogos de tabuleiro e vídeo jogos
 
 ![alt text](https://github.com/Elton-Arruda/Elton-Arruda/blob/main/thumb-1920-787541.jpg)
 
@@ -11,10 +13,14 @@ Hello There!
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Arruda&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
+  
+  ### LINGUAGENS
+  
   <img align="center" alt="Elton-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Elton-Python" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
   ##
+  ### REDES DE CONTATO
   
 <div>
 <a href="https://instagram.com/Oagub_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

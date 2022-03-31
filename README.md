@@ -1,7 +1,10 @@
 Hello There!
 
+- 📚 Formado em Filosofia - Licenciatura (UFPE)
 - 🌱 Atualmente aprendendo um pouco de todas as coisas, mas especialmente Python
 - 📌 Pronomes: Ele/Dele
+
+![alt text](https://github.com/Elton-Arruda/Elton-Arruda/blob/main/thumb-1920-787541.jpg)
 
 <div align="center">
   <a href="https://github.com/Elton-Arruda">

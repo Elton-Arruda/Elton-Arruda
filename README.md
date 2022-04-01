@@ -9,8 +9,8 @@ Hello There!
 
 <div align="center">
   <a href="https://github.com/Elton-Arruda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elton-Arruda&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Arruda&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elton-Arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Arruda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   

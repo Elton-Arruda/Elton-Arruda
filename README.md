@@ -1,7 +1,7 @@
 Hello There!
 
 - 📚 Formado em Filosofia - Licenciatura (UFPE)
-- 🎫 Tentando entrar em outra área (ADS)
+- 🎫 Tentando entrar na área de programação
 - 🌱 Atualmente aprendendo um pouco de todas as coisas, mas especialmente Python
 - 🎲 Jogador de rpgs, jogos de tabuleiro e vídeo jogos
 

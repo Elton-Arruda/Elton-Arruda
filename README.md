@@ -2,7 +2,7 @@ Hello There!
 
 - 📚 Formado em Filosofia - Licenciatura (UFPE)
 - 🎫 Tentando entrar na área de programação
-- 🌱 Atualmente aprendendo um pouco de todas as coisas, mas especialmente Python
+- 🌱 Atualmente aprendendo um pouco de todas as coisas.
 - 🎲 Jogador de rpgs, jogos de tabuleiro e vídeo jogos
 
 ![alt text](https://github.com/Elton-Arruda/Elton-Arruda/blob/main/thumb-1920-787541.jpg)

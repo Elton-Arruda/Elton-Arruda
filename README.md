@@ -4,14 +4,6 @@ Hello There!
 - 📚 Formado em Filosofia - Licenciatura (UFPE)
 - 🌱 Atualmente aprendendo um pouco de todas as coisas.
 - 🎲 Jogador de rpgs, jogos de tabuleiro e vídeo jogos
-
-![alt text](https://github.com/Elton-Arruda/Elton-Arruda/blob/main/thumb-1920-787541.jpg)
-
-<div align="center">
-  <a href="https://github.com/Elton-Arruda">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Elton-Arruda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Arruda&layout=compact&langs_count=7&theme=algolia"/>
-</div> 
   
   
   ### LINGUAGENS

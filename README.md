@@ -1,7 +1,7 @@
 Hello There!
 
+- 🎫 Graduando em Analise e Desenvolvimento de Software (Estácio)
 - 📚 Formado em Filosofia - Licenciatura (UFPE)
-- 🎫 Tentando entrar na área de programação
 - 🌱 Atualmente aprendendo um pouco de todas as coisas.
 - 🎲 Jogador de rpgs, jogos de tabuleiro e vídeo jogos
 

@@ -2,7 +2,8 @@ Hello There!
 
 - 🎫 Graduando em Analise e Desenvolvimento de Software (Estácio)
 - 📚 Formado em Filosofia - Licenciatura (UFPE)
-- 🌱 Atualmente aprendendo um pouco de todas as coisas.
+- 🌱 Buscando aprofundar meus conhecimentos em C#
+- 🌱 Entusiasta de Java e também Python - Com uma inclunação leve ao JavaScript
 - 🎲 Jogador de rpgs, jogos de tabuleiro e vídeo jogos
   
   
